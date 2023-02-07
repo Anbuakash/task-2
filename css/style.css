@@ -1,0 +1,55 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+.task{
+	width:100%;
+}
+.button{
+	padding:15px 32px;
+	background-color:#4CAF50;
+	color:white;
+	margin-left:25px;
+	
+}
+.flex{
+	display:flex;
+}
+.web{
+	padding:15px;
+	margin:15px 25px;
+}	
+.image{
+	height:40px;
+	width:40px;
+	border-radius:50px;
+	margin:15px 25px;
+}
+.hr{
+	margin:15px 25px;
+}
+.anto{
+	display:flex;
+	width:100%;
+}
+.ragu{
+	margin-left:450px;
+}
+.raj{
+	margin-left:450px;
+	margin-top:20px;
+}
+.naga{
+	margin-top:20px;
+}
+#ashok{
+	border:2px solid black;
+	margin:20px 430px 30px 285px;
+}
+
+
+
+
+
+
